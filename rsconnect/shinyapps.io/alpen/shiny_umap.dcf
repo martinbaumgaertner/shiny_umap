@@ -1,0 +1,13 @@
+name: shiny_umap
+title: shiny_umap
+username:
+account: alpen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4936378
+bundleId: 5167690
+url: https://alpen.shinyapps.io/shiny_umap/
+when: 1634923701.72768
+lastSyncTime: 1634923701.72768
+asMultiple: FALSE
+asStatic: FALSE
