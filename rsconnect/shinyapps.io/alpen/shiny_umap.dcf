@@ -5,9 +5,9 @@ account: alpen
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4936378
-bundleId: 5175171
+bundleId: 5191328
 url: https://alpen.shinyapps.io/shiny_umap/
-when: 1635177117.69888
-lastSyncTime: 1635177117.69888
+when: 1635529876.47456
+lastSyncTime: 1635529876.47456
 asMultiple: FALSE
 asStatic: FALSE
